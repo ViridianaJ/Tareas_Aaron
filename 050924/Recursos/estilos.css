@@ -1,0 +1,45 @@
+body{
+    background-color: #fcf3cf;
+    text-align: justify;
+    font-family: 'Frankklin Gothic Medium';
+    padding-top: 5em;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding: 5em;
+}
+.fondoBlanco{
+    background-color: #F1BC15;
+}
+.imagen {
+    width: 450px;
+}
+.texto1{
+    text-align: center;
+    font-size: 5em;
+    color: #90050A;
+}
+.texto2{
+    color: #067A69;
+    
+
+}
+.separacion{
+    padding: 3em;
+    background-color: #fcf3cf;
+}
+.borde{
+    border: 10px solid #F1BC15;
+}
+.imagen{
+    text-align: center;
+    font-size: 3em;
+    color:#fcf3cf;
+}
+.parrafo5{
+    background-color: #F1BC15;
+    font-size: 3em;
+    font-family: 'Frankklin Gothic Medium';
+    color: #90050A;
+    border: 50px solid #F1BC15;
+
+}
